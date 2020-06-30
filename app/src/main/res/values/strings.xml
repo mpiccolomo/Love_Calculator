@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="imgHeart">" heart"</string>
+    <string name="wiev_YourName">YourName</string>
+    <string name="Wiev_name_partner">NamePartner</string>
+    <string name="edit1YourN">your name</string>
+    <string name="Wiev_NamePartener">Name partener</string>
+    <string name="Wiev_yourName">Your name</string>
+    <string name="edi2Name">Name</string>
+    <string name="go">Go!!</string>
+    <string name="WievLSyour_name">Your Name</string>
+    <string name="Wiev_yourNam">your name</string>
+    <string name="viewLSname_partner">Name Partner</string>
+    <string name="editLSname">Name</string>
+    <string name="LS_GO">Go!!</string>
+    <string name="partener_s_name">partener\'s Name</string>
+    <string name="LSpartener_s_name">Partener\'s Name</string>
+    <string name="partener_s_nameLS">Partener\'s Name</string>
+</resources>
